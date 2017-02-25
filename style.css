@@ -1,0 +1,29 @@
+p {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.intro-text {
+  font-family: 'Bungee Inline', cursive;
+  color: #4527a0;
+  opacity: .7;
+}
+
+.kc-blurb {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #4527a0;
+  opacity: .7;
+}
+
+.intro-section {
+  background-image: url(assets/icopattern.png);
+  background-repeat: repeat;
+  height: 18em;
+  opacity: .3;
+}
+#about i {
+  margin: 40px 0;
+}
+
+.card .card-image img {
+  height: 15em;
+}
