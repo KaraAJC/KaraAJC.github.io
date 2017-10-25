@@ -14,6 +14,10 @@ p {
   opacity: .7;
 }
 
+.i-am {
+  padding: 0 20%;
+}
+
 .intro-section {
   background-image: url(assets/icopattern.png);
   background-repeat: repeat;
@@ -21,9 +25,20 @@ p {
   opacity: .3;
 }
 #about i {
-  margin: 40px 0;
+  margin: .5em 0;
 }
 
 .card .card-image img {
   height: 15em;
+}
+
+i.tiny.material-icons {
+    vertical-align: middle;
+    display: inline;
+    font-size: 1rem;
+    color: #4527a0;
+}
+
+.side-nav li>a>i.material-icons.kc-mobile-i  {
+  float: none;
 }
