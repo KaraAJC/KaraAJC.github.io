@@ -18,12 +18,10 @@ p {
   padding: 0 20%;
 }
 
-.intro-section {
-  background-image: url(assets/icopattern.png);
-  background-repeat: repeat;
-  height: 18em;
-  opacity: .3;
+.kc-sep.parallax-container {
+  height: 200px;
 }
+
 #about i {
   margin: .5em 0;
 }
